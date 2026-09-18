@@ -23,3 +23,6 @@ Este repositório foi criado para o desafio de projeto do curso de **Git e GitHu
 ## 🔗 Links Úteis
 - [Documentação Oficial do Markdown](https://www.markdownguide.org)
 - [Meu Perfil no GitHub](https://github.com/RicardoFai)
+
+
+## 🚀 Bons estudos!
